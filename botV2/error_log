@@ -1,0 +1,1 @@
+[22-Dec-2016 16:25:57 America/New_York] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/summerco/masterpick.summercolors.co/botV2/class/champ.php on line 165
